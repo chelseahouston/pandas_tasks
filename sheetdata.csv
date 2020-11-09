@@ -1,15 +1,15 @@
-Destination,Feedback,Average Hotel Rating,No of All Inclusive hotels,Most vidited City
-UK,4/10,3/5,63,London
-Spain,6/10,3/5,8,Madrid
-Holland,8/10,3/5,4,Amsterdam
-Greece,7/10,2/5,3,Kios
-Turkey,7/10,3/5,54,Marmaris
-California,7/10,3/5,37,Los Angeles
-Australia,8/10,4/5,56,Sydney
-Ireland,5/10,2/5,7,Galway
-Egypt,8/10,3/5,13,Cairo
-Germany,7/10,4/5,14,Bonn
-France,8/10,2/5,16,Paris
-Canada,8/10,4/5,37,Vancouver
-Austria,6/10,3/5,24,Salzburg
-China,7/10,2/5,68,Hong Kong
+Destination,Feedback out of 10,Average Hotel Rating out of 5,No of All Inclusive hotels,Most vidited City
+UK,4,3,63,London
+Spain,6,3,8,Madrid
+Holland,8,3,4,Amsterdam
+Greece,7,2,3,Kios
+Turkey,7,3,54,Marmaris
+California,7,3,37,Los Angeles
+Australia,9,4,56,Sydney
+Ireland,5,2,7,Galway
+Egypt,9,3,13,Cairo
+Germany,7,4,14,Bonn
+France,8,2,16,Paris
+Canada,9,3,37,Vancouver
+Austria,6,3,24,Salzburg
+China,7,2,68,Hong Kong

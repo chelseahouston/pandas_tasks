@@ -8,8 +8,6 @@ A program that:
 - Find all the destinations where there are more than 9 all-inclusive hotels
 - Filter the data by destination and score above 8
 - Filter the data by destination and score below 2 - need to know if these destinations should be removed or if there is an problem
-- Shows any correlation between number of all inclusive hotels and score
-- Create a data visualisation diagram to show destination and highest scores
 
 ## Installation
 Uses Pandas. Poetry installation required.
