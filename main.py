@@ -8,7 +8,14 @@ df = pd.DataFrame(myfile)
 # TASK 1 ---
 # PRINT NUMBER OF ROWS AND COLUMNS ---
 print("TASK 1: Number of Rows & Columns:")
-print(df)
+row01 = df.index
+number_of_rows = len(row01)
+print(f"Number of rows: {number_of_rows}")
+column01 = df.columns
+number_of_c = len(column01)
+print(f"Number of columns: {number_of_c}")
+
+
 
 print('\n')
 # TASK 2 ---
